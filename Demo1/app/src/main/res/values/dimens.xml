@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_size">35sp</dimen>
+    <dimen name="medium_x_size">22sp</dimen>
+    <dimen name="medium_xx_size">24sp</dimen>
+    <dimen name="medium_size">18sp</dimen>
+    <dimen name="medium_2_size">20sp</dimen>
+    <dimen name="small_x_size">16sp</dimen>
+    <dimen name="small_15_size">15sp</dimen>
+    <dimen name="small_13_size">13sp</dimen>
+    <dimen name="small_11_size">11sp</dimen>
+    <dimen name="small_7_size">7sp</dimen>
+    <dimen name="small_9_size">9sp</dimen>
+    <dimen name="small_8_size">8sp</dimen>
+    <dimen name="small_size">14sp</dimen>
+    <dimen name="very_small_size">12sp</dimen>
+    <dimen name="xx_small_size">10sp</dimen>
+    <dimen name="selector_radius">17dp</dimen>
+    <dimen name="common_submit_button_radius">2dp</dimen>
+
+    <dimen name="default_left_right_space">10dp</dimen>
+    <dimen name="common_card_elevation">2dp</dimen>
+    <dimen name="common_popup_card_radius">10dp</dimen>
+
+    <dimen name="fab_margin">5dp</dimen>
+    <dimen name="fab_menu_size">35dp</dimen>
+    <dimen name="standard_45">45dp</dimen>
+    <dimen name="standard_95">95dp</dimen>
+    <dimen name="standard_145">145dp</dimen>
+
+</resources>

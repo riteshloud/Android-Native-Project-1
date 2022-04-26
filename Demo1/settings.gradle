@@ -1,0 +1,3 @@
+include ':multipleimageselect'
+include ':app'
+rootProject.name = "demo"

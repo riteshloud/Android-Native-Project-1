@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_report"
+        android:icon="icon"
+        android:title="Report" />
+
+    <item
+        android:id="@+id/menu_block"
+        android:icon="icon"
+        android:title="Block" />
+
+
+</menu>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">demo</string>
+
+    <!-- TODO: Here Auth Screen Strings -->
+    <string name="no_internet_connection">Please check your internet connection and try again.</string>
+    <string name="something_wrong_message">Sorry we are unable to connect with the server, please try again later.</string>
+    <string name="ok">OK</string>
+    <string name="txt_login_tag">Login</string>
+    <string name="txt_to_your_account_tag">  To Your Account</string>
+    <string name="email_address_tag">Email Address</string>
+    <string name="password_tag">Password</string>
+    <string name="forgot_your_password_tag">Forgot your password?</string>
+    <string name="login_tag">Login</string>
+    <string name="new_to_demo_tag">New to demo?</string>
+    <string name="register_now_tag">Register Now</string>
+    <string name="register_tag">Register</string>
+    <string name="account_tag">Account</string>
+    <string name="full_name_tag">Full Name</string>
+    <string name="username_tag">Username</string>
+    <string name="confirm_password_tag">Confirm Password</string>
+    <string name="confirm_password_required">Confirm Password*</string>
+
+
+    <!-- TODO: Logout String -->
+    <string name="logout_message">Are you sure you want to logout?</string>
+    <string name="msg_multi_device_logout_confirm">Are you sure you want to logout from selected devices?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_its_me">Yes, it\'s me</string>
+
+    <string name="block_message">Are you sure you want to block this user?</string>
+
+    <string name="unblock_message">Are you sure you want to unblock this user?</string>
+
+</resources>

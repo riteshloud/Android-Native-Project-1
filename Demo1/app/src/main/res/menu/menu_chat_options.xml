@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cv_view_service"
+        android:icon=""
+        android:title="View Service" />
+
+    <item
+        android:id="@+id/cv_view_template"
+        android:icon=""
+        android:title="View Temp" />
+
+    <item
+        android:id="@+id/cv_add_template"
+        android:icon=""
+        android:title="Add Temp" />
+</menu>

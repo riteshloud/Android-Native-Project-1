@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A373B</color>
+    <color name="colorPrimaryDark">#3CABE9</color>
+    <color name="colorAccent">#3CABE9</color>
+
+    <color name="colorDarkGreen">#2A373B</color>
+    <color name="lightGreen">#5CC233</color>
+    <color name="low_green">#195CC233</color>
+    <color name="low_sky_blue">#B9DBEF</color>
+    <color name="light_blue">#EFF8FD</color>
+    <color name="blue">#029BF2</color>
+    <color name="yellow">#FFCA28</color>
+
+    <color name="editTextColor">#FAFAFA</color>
+    <color name="chat_line">#BABABA</color>
+    <color name="sender_bg">#D8EEFB</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#7A7979</color>
+    <color name="dark_gray">#616161</color>
+    <color name="light_gray">#B7B7B7</color>
+    <color name="dark_black">#707070</color>
+    <color name="light_black">#3E3E3E</color>
+    <color name="project_view">#888888</color>
+    <color name="project_rs">#959595</color>
+    <color name="date_color">#CECECE</color>
+    <color name="autolink_color">#576586</color>
+    <color name="light_grey_line">#f4f4f4</color>
+    <!-- Notification Color -->
+    <color name="red">#E93C3C</color>
+    <drawable name="dialog_bg">#3E000000</drawable>
+    <drawable name="dialog_bg_white">#FAFAFA</drawable>
+    <color name="product_background">#F7F6F4</color>
+<color name="block_user">#6c757d</color>
+</resources>

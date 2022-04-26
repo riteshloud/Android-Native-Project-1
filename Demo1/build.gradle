@@ -1,0 +1,54 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+
+    ext.versions = [
+            'libphonenumber'     : '6.2',
+            'biometric'          : '1.0.1',
+            'constraintlayout'   : '1.0.3',
+            'cardview'           : '1.0.0',
+            'recyclerview'       : '1.0.0',
+            'gson'               : '2.8.6',
+            'material'           : '1.3.0-alpha02',
+            'retrofit'           : '2.9.0',
+            'glide'              : '4.10.0',
+            'analytics'          : '19.0.0',
+            'crashlytics'        : '18.1.0',
+            'messaging'          : '20.2.4',
+            'signaturepad'       : '1.2.1',
+            'serviceslocation'   : '17.0.0',
+            'coroutines_core'    : '1.3.2',
+            'coroutines_android' : '1.3.2',
+            'voice_agora_sdk'    : '3.0.0',
+            'slf'                : '1.7.21',
+            'logging_interceptor': '4.2.1',
+            'lifecycle-extensions': '2.1.0'
+
+    ]
+
+    ext.kotlin_version = "1.3.72"
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "https://www.jitpack.io" }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:4.0.1"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.google.gms:google-services:4.3.4'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.4.1'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "https://www.jitpack.io" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
